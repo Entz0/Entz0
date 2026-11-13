@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hej, jag heter Robin 👋
 
-<!--
-**Entz0/Entz0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jag studerar till **mobilapplikationsutvecklare** på Folkuniversitetet och bor i Lidköping. Jag gillar det mesta inom teknik och drivs av att lära mig nya verktyg, lösa komplexa problem och bygga smidiga, välfungerande appar.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tekniker & Verktyg
+* **Just nu:** Java (OOP), Kotlin, Jetpack Compose, Android Studio
+* **Kommande i utbildningen:** Swift & Xcode (iOS), webbapplikationer, molntjänster, React Native
+* **Verktyg:** Git, GitHub, VS Code
+
+---
+
+### 📅 Utbildning & LIA
+* **2026–2028:** Mobilapplikationsutvecklare, Folkuniversitetet
+* **LIA 1:** v. 49–7 (2027/2028) | **LIA 2:** v. 14–23 (2028)
+
+---
+
+### 📫 Kontakt
+* **LinkedIn:** https://www.linkedin.com/in/robin-lorentzon-59082b110/
