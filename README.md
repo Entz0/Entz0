@@ -1,6 +1,6 @@
 ### Hej, jag heter Robin 👋
 
-Jag studerar till **mobilapplikationsutvecklare** på Folkuniversitetet och bor i Lidköping. Jag gillar det mesta inom teknik och drivs av att lära mig nya verktyg, lösa komplexa problem och bygga smidiga, välfungerande appar.
+Jag studerar till **mobilapplikationsutvecklare** på Folkuniversitetet. Jag gillar det mesta inom teknik och drivs av att lära mig nya verktyg, lösa komplexa problem och bygga smidiga, välfungerande appar.
 
 ---
 
